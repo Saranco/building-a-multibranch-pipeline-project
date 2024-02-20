@@ -10,4 +10,3 @@ pipeline {
         }
     }
 }
-Toggle Scripted Pipeline (A
